@@ -8,7 +8,7 @@ Instructions
 
 The tutorials are written as `jupyter notebooks` - browser based Python kernels to run, document, and visualize code (https://jupyter.org/). If you installed Python using Anaconda, it is possible that `jupyter` is already installed (check with `jupyter --version`). 
 
-1. Install phenopype (see https://phenopype.org/docs/installation) and jupyter notebook (:code:`pip install jupyter notebook`)
+1. Install phenopype (see https://phenopype.org/docs/installation) and jupyter notebook (`pip install jupyter notebook`)
 2. [Download](https://github.com/phenopype/phenopype-tutorials/archive/refs/heads/main.zip) and unpack this repository.
 3. Open a terminal in the unpacked phenopype repository.
 4. Start the notebooks with `jupyter notebook` and click on one of the tutorial files.
