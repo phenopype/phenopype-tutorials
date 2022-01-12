@@ -4,7 +4,7 @@ phenopype tutorials
 Instructions
 ------------
 
-(From https://phenopype.org/docs)
+(From https://phenopype.org/docs/tutorials)
 
 The tutorials are written as `jupyter notebooks` - browser based Python kernels to run, document, and visualize code (https://jupyter.org/). If you installed Python using Anaconda, it is possible that `jupyter` is already installed (check with `jupyter --version`). 
 
